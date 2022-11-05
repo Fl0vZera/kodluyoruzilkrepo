@@ -1,8 +1,10 @@
-##Kodluyoruz ilk repo
+# Kodluyoruz ilk repo
+
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 ![resim](./Screenshot_20221106_122255.png)
 
-##Installation
+## Installation
+
 Oncelikle projeyi clonelayin
 https://github.com/Fl0vZera/kodluyoruzilkrepo.git
 #Usage
@@ -11,8 +13,10 @@ Linux Icin:
 cd kodluyoruzilkrepo
 code
 
-##Contributing
+## Contributing
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
-##License
+## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
